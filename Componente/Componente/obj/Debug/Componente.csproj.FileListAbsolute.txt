@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\bin\Debug\Componente.dll
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\bin\Debug\Componente.pdb
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\obj\Debug\Componente.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\obj\Debug\Componente.Properties.Resources.resources
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\obj\Debug\Componente.Reproductor.resources
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\obj\Debug\Componente.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\obj\Debug\Componente.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\obj\Debug\Componente.dll
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Componente\obj\Debug\Componente.pdb

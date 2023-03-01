@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\bin\Debug\Componente.dll
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\bin\Debug\Componente.pdb
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.Form1.resources
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\HP\source\repos\2nda Evaluacion\Bol5_Ej3\Componente\Aplicacion\obj\Debug\Aplicacion.pdb
